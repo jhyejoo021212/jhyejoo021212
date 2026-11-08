@@ -1,16 +1,38 @@
-## Hi there 👋
+# 정혜주 (Jung Hye Joo)
 
-<!--
-**jhyejoo021212/jhyejoo021212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 수출입 통관 행정과 무역 사무 실무를 준비하는 대진대학교 국제통상학과 학생입니다.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 학력
+- 대진대학교 국제통상학과 재학
+
+## 희망 직무
+- 수출입 통관 관련 행정 업무 및 서류 정리
+- 무역 사무
+
+## 경력 및 활동 경험
+- **관세법인 인턴** (2026.07 ~ 2026.08)
+  - 관세사 업무 보조 (수출입 통관 관련 서류 정리 및 행정 지원)
+  - 수출입 신고 관련 서류 확인 및 문서 관리
+- **관세연구논문공모전 참가** (2026)
+- **(주)시즌리스 근무** - 여성의류 (2025.07 ~ 2025.08)
+- **경제학과 주식투자 동아리** (2023)
+
+## 자격증 및 어학
+| 구분 | 내용 | 취득 연도 |
+|------|------|-----------|
+| 자격증 | 전산회계 2급 | 2023 |
+| 자격증 | 컴퓨터활용능력 2급 | 2025 |
+| 자격증 | 무역영어 1급 | 2026 |
+| 어학 | TOEIC 915점 | - |
+| 어학 | TOEIC Speaking Lv.6 (IH, 140점) | - |
+| 준비 중 | 국제무역사 1급 | - |
+| 준비 예정 | 관세사 1차 시험 (2027.05 ~) | - |
+
+## 연락처
+- 이메일: lucyjoo3557@naver.com
+
+---
+
+*최종 수정: 2026년 11월*
